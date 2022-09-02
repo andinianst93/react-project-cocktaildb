@@ -378,11 +378,13 @@ Cocktail
 .loader,
 .loader:before,
 .loader:after {
-  background: transparent;
+  /* background: transparent;
   -webkit-animation: load1 1s infinite ease-in-out;
   animation: load1 1s infinite ease-in-out;
   width: 1em;
-  height: 4em;
+  height: 4em; */
+  text-align: center;
+  margin: 4rem 0 6rem 0;
 }
 .loader {
   color: var(--primaryColor);
