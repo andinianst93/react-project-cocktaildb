@@ -376,6 +376,7 @@ Cocktail
   }
 }
 .loading {
+  font-size: 2rem;
   text-align: center;
   margin: 4rem 0 6rem 0;
 }
